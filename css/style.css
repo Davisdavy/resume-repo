@@ -53,3 +53,31 @@ button a{
         top: 0; 
         width: 100%;
  }
+.webDes{
+    background-color: rgb(209, 201, 201);
+    width:40%;
+    position: absolute;
+    top: 130%;
+    left: 2%;
+    height: 20%;
+}
+.webDev{
+    background-color: rgb(209, 201, 201);
+    width:40%;
+    position: absolute;
+    top: 130%;
+    left: 57%;
+    height: 20%;
+}
+.softDev{
+    background-color: rgb(209, 201, 201);
+    width:40%;
+    position: absolute;
+    top: 140%;
+    left: 40%;
+    height: 2%;
+}
+.mid-image{
+    overflow: hidden;
+    position: fixed;
+}
