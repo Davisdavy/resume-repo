@@ -81,3 +81,6 @@ button a{
     overflow: hidden;
     position: fixed;
 }
+.form{
+    background-color: rgb(182, 176, 176);
+}
